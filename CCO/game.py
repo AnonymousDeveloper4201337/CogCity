@@ -1,4 +1,4 @@
-from direct.actor.Actor import Actor
+from direct.actor.Actor import Actor.actor
 from pandac.PandaModules import *
 from direct.task import Task
 import math
